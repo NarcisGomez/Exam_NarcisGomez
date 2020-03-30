@@ -26,3 +26,5 @@
 	○ Restart Game (Cuando se presiona la tecla R)
 
 ● (0,5p)​ Aplicar la funcionalidad de que el player pueda poseer alguna IA. (Con la tecla Q se posee a la IA y con la tecla E se vuelve al player principal)
+
+PARA TESTEAR LA VIDA, PRESIONAR Z
